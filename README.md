@@ -10,25 +10,26 @@
 🔹 **C# .NET Developer** with 2 years of experience  
 🔹 **Software Engineering Student** at **HNEU**  
 🔹 Passionate about **Backend Development & Clean Architecture**  
-🔹 Experienced in **Cloud Deployments (Azure), API Development, and Database Design**  
+🔹 Experienced in **Cloud Deployments (Azure), API Development, Database Design & Docker**  
 
 ---
 
 ## 🚀 Projects  
 ### 🎬 **Screenify** - Full-stack Movie App  
 🔹 **Clean Architecture** web application using **ASP.NET**  
-🔹 Team of **6 developers of which 3 front-end and 3 back-end**, deployed on **Azure**  
-🔹 Implemented:  
-  - **Controllers, Services, Interfaces, DTOs for**⬋⬋  
-  - `MovieGenre`, `Movie`, `Session`, `Room`, `CinemaType`, `Genre`  
-🔹 **Database:** MySQL + UML Diagrams  
-🔹 Used **EF Core, ASP.NET, AutoMapper, JWT**  
+🔹 Team of **6 developers (3 front-end, 3 back-end)**, deployed on **Azure**  
+🔹 **My Contributions:**  
+  - Implemented **Controllers, Services, Interfaces, DTOs** for:  
+    - `MovieGenre`, `Movie`, `Session`, `Room`, `CinemaType`, `Genre`  
+  - Designed **UML Database Diagram**  
+  - Configured **Docker containers for development & deployment**  
+🔹 **Tech Used:** MySQL, EF Core, ASP.NET, AutoMapper, JWT, Docker  
 🔹 📌 **[View Repository](https://github.com/SoftServePracticeJan25/screenify-be)**  
 
 ### 🤖 **Telegram Bots**  
 🔹 Developed **2 bots**, one as a **commercial project**  
 🔹 Built with **C# and Telegram API**  
-🔹 📌 **[View Repository](https://github.com/T8mpest/TlgBotForMedUniversity)** 
+🔹 📌 **[View Repository](https://github.com/T8mpest/TlgBotForMedUniversity)**  
 🔹 📌 **[View Repository](https://github.com/T8mpest/MANIFESTA)**  
 
 ---
@@ -39,9 +40,17 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)  
 ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![AutoMapper](https://img.shields.io/badge/AutoMapper-EA4AAA?style=for-the-badge)  
+
+---
+
+## 📚 Currently Learning  
+🔹 **Blazor** for web development  
+🔹 **Microservices with .NET**  
+🔹 **Docker & Kubernetes**  
 
 ---
 
@@ -61,4 +70,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/T8mpest)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-shypilov-bb2a82278/)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/t8mpestt)  
-
