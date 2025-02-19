@@ -20,15 +20,16 @@
 🔹 Team of **6 developers (3 front-end, 3 back-end)**, deployed on **Azure**  
 🔹 **My Contributions:**  
   - Implemented **Controllers, Services, Interfaces, DTOs** for:  
-    - `MovieGenre`, `Movie`, `Session`, `Room`, `CinemaType`, `Genre`  
+    - `Movie`, `Session`, `Room`, `CinemaType`, `Genre`  
   - Designed **UML Database Diagram**  
-  - Configured **Docker containers for development & deployment**  
-🔹 **Tech Used:** MySQL, EF Core, ASP.NET, AutoMapper, JWT, Docker  
+  - Configured **Docker containers for development & deployment**
+  - Implemented HangFire realisation 
+🔹 **Tech Used:** MySQL, EF Core, ASP.NET, AutoMapper, JWT, Docker,HangFire,Azure
 🔹 📌 **[View Repository](https://github.com/SoftServePracticeJan25/screenify-be)**  
 
 ### 🤖 **Telegram Bots**  
 🔹 Developed **2 bots**, one as a **commercial project**  
-🔹 Built with **C# and Telegram API**  
+🔹 Built with **C#,LINQ,EF Core,SqlLite and Telegram API**  
 🔹 📌 **[View Repository](https://github.com/T8mpest/TlgBotForMedUniversity)**  
 🔹 📌 **[View Repository](https://github.com/T8mpest/MANIFESTA)**  
 
