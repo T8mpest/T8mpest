@@ -23,8 +23,9 @@
     - `Movie`, `Session`, `Room`, `CinemaType`, `Genre`  
   - Designed **UML Database Diagram**  
   - Configured **Docker containers for development & deployment**
-  - Implemented HangFire realisation 
-🔹 **Tech Used:** MySQL, EF Core, ASP.NET, AutoMapper, JWT, Docker,HangFire,Azure
+  - Implemented HangFire realisation
+    
+🔹 **Tech Used:** MySQL, EF Core, ASP.NET, AutoMapper, JWT, Docker,HangFire.
 🔹 📌 **[View Repository](https://github.com/SoftServePracticeJan25/screenify-be)**  
 
 ### 🤖 **Telegram Bots**  
