@@ -10,7 +10,7 @@
 🔹 **C# .NET Developer** with 2 years of experience  
 🔹 **Software Engineering Student** at **HNEU**  
 🔹 Passionate about **Backend Development & Clean Architecture**  
-🔹 Experienced in **Cloud Deployments (Azure), API Development, Database Design & Docker**  
+🔹 Experienced in **Cloud Deployments (Azure,Amazon), API Development, Database Design & Docker**  
 
 ---
 
