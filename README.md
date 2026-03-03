@@ -1,171 +1,130 @@
-<h1 align="center">Hi, I'm Mykhailo (Michael) Shypilov 👋</h1>
+<h1 align="center">Hi, I'm Mykhailo Shypilov 👋</h1>
 
 <p align="center">
-  <b>Founding Engineer @ Shinodo • AI Systems Engineer • Distributed Backend Architect</b>
+  You can call me Michael.
 </p>
 
 <p align="center">
-  <a href="https://shinodo.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Shinodo-Live%20Product-00A6FF?style=for-the-badge" />
+  <b>Founding Engineer @ Shinodo • AI & Backend Engineer</b>
+</p>
+
+<p align="center">
+  <a href="https://shinodo.com/">
+    <img src="https://img.shields.io/badge/Shinodo-Live%20AI%20Product-00A6FF?style=for-the-badge" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A6FF&center=true&width=750&lines=AI-Native+Engineer;LLM+Systems+%7C+Voice-to-Text+Pipelines;Microservices+%7C+Distributed+Architecture;Web+%2B+Backend+%2B+AI+Systems" />
-</p>
+---
+
+## 👨‍💻 About Me
+
+Backend & AI-focused engineer building real production systems.
+
+I care about:
+- system design  
+- clean architecture  
+- scalable backend logic  
+- AI that actually works in production  
+
+Most of my current work sits at the intersection of distributed systems and LLM-based products.
 
 ---
 
-## 🧠 About Me
-
-AI-focused engineer building production-ready distributed systems.
-
-I work at the intersection of:
-
-- LLM-based systems  
-- Voice-to-text pipelines  
-- Web platform architecture  
-- Microservices & event-driven systems  
-- Secure authentication & scalable backend infrastructure  
-
-Currently building a real AI product available on the App Store and web.
-
----
-
-## 🚀 Shinodo — AI Cognitive Assistant  
+## 🧠 Shinodo — AI Cognitive Assistant  
 🌐 https://shinodo.com/
 
 **Founding Engineer**
 
-Shinodo is an AI-powered personal cognitive assistant available on the App Store and Web.
+Shinodo is an AI-powered cognitive assistant available on App Store and Web.
 
-My role goes far beyond “.NET developer” — .NET is just one small part of the system.
+My role goes far beyond “.NET developer” — .NET is maybe 1% of the system.  
+The real work is AI system design and distributed architecture.
 
-### 🔹 AI & Core System Work
+### What I work on:
 
-- Designing and improving **voice-to-text transcription pipelines**
-- Processing raw transcripts (lessons, meetings, voice notes)
-- Building adaptive **LLM layers for:**
-  - Summarization
-  - Report regeneration
-  - Contextual Q&A over transcripts
-- Designing dynamic system prompts for multi-scenario coverage
-- Orchestrating AI microservices across distributed architecture
-- Implementing regeneration logic for both user-generated and system reports
-- Cost modeling for LLM usage vs internal virtual currency
-- Scaling and refactoring AI-heavy backend services
-
----
-
-### 🔹 Web Platform Engineering
-
-I am also deeply involved in building and evolving the Shinodo web platform.
-
-- Designing backend APIs for web features
-- Implementing business logic for AI-powered workflows
-- Working on report sharing, regeneration, and system events
-- Improving system reliability and scalability
-- Refactoring architecture as the product grows
-- Integrating authentication flows across services
-- Participating in product-level architectural decisions
-
-The web layer is tightly integrated with AI microservices and event-driven backend logic.
-
----
-
-### 🔹 Architecture & Infrastructure
-
-- Dedicated **authentication microservice**  
-  (ASP.NET Core + Identity + JWT + OAuth 2.0)
-- Dockerized distributed microservices
-- Python-based AI services
-- Event-driven system design
-- AWS & Azure cloud environments
-- CI/CD pipelines
+- Voice-to-text → transcript → summary pipelines  
+- LLM orchestration layers (summaries, regeneration, contextual Q&A)  
+- Adaptive system prompts for multiple user scenarios  
+- Report regeneration logic (user & system reports)  
+- Backend architecture for the web platform  
+- Event-driven microservices  
+- LLM cost modeling & internal currency mechanics  
+- Dedicated authentication microservice (ASP.NET Core + Identity + JWT + OAuth 2.0)  
 
 ---
 
 ## 🏥 Prevencio — AI Medical Analysis Platform
 
-ASP.NET Backend Engineer
+Backend Engineer
 
-- Built backend from scratch using Clean Architecture
-- Designed full UML entity-relationship diagram
-- Implemented secure authentication (Identity + JWT + OAuth 2.0)
-- Integrated Anthropic Claude (Amazon Bedrock)
-- Deployed infrastructure using Docker + AWS
-- Wrote unit and integration tests
+- Built backend from scratch using Clean Architecture  
+- Designed full UML database model  
+- Integrated Anthropic Claude (Amazon Bedrock)  
+- Secure authentication (Identity + JWT + OAuth 2.0)  
+- PostgreSQL + EF Core  
+- Dockerized AWS deployment  
+- Unit & integration testing  
 
 ---
 
-## 🎬 Screenify — Movie Web Application (SoftServe Practice)
+## 🎬 Screenify — Movie Web Application  
+(SoftServe Practice Program)
 
-- ASP.NET Web API + MySQL + Docker + Azure
-- HangFire background processing
-- Team of 6 developers
-- Top-rated project in the cohort
+Team project (6 developers).  
+We were rated **the best team in the cohort**.
+
+- ASP.NET Web API  
+- MySQL + EF Core  
+- Docker setup  
+- Azure deployment  
+- HangFire background jobs  
+- Designed and implemented core domain logic  
+- Created UML database diagram  
 
 Repository:  
-https://github.com/SoftServePracticeJan25/screenify-be
-
----
-
-## 🤖 Automation & Telegram Systems
-
-- Commercial automation bots
-- Integrated Google Vision OCR, Sheets API, Drive API
-- Reduced manual workload by 30%
-- Built scalable C# backend logic
-
-Repositories:
-- https://github.com/T8mpest/TlgBotForMedUniversity  
-- https://github.com/T8mpest/MANIFESTA  
-
----
-
-## 🧩 Engineering Focus
-
-- AI-native backend systems  
-- LLM orchestration & prompt design  
-- Voice-to-text pipelines  
-- Distributed microservices  
-- Web platform backend architecture  
-- Secure authentication & authorization  
-- Clean Architecture & SOLID  
-- Event-driven systems  
-- Dockerized deployments & CI/CD  
+https://github.com/SoftServePracticeJan25/screenify-be  
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-C#, Python, C, C++, SQL, JavaScript, Swift (basic)
+<p align="left">
 
-### Backend & Frameworks
-.NET 8, ASP.NET Core, EF Core, Identity, OAuth 2.0, JWT, HangFire
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Identity-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
 
-### Cloud & DevOps
-Docker, AWS (EC2, App Runner, Bedrock), Azure, CI/CD Pipelines, GitHub Actions
+<br/>
 
-### Databases
-PostgreSQL, MySQL, MSSQL, MongoDB
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-### Architecture
-Clean Architecture, Microservices, Distributed Systems, REST APIs
+<br/>
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T8mpest&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T8mpest&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=T8mpest&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T8mpest&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 GitHub: https://github.com/T8mpest  
 LinkedIn: https://www.linkedin.com/in/michael-shypilov-bb2a82278/  
