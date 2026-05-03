@@ -49,7 +49,8 @@ The real work is AI system design and distributed architecture.
 - Backend architecture for the web platform  
 - Event-driven microservices  
 - LLM cost modeling & internal currency mechanics  
-- Dedicated authentication microservice (ASP.NET Core + Identity + JWT + OAuth 2.0)  
+- Dedicated authentication microservice (ASP.NET Core + Identity + JWT + OAuth 2.0)
+- GCP infra
 
 ---
 
