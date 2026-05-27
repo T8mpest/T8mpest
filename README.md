@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mykhailo Shypilov 👋</h1>
 
 <p align="center">
-  You can call me Michael.
+  You can call me Michael
 </p>
 
 <p align="center">
