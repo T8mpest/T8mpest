@@ -128,5 +128,5 @@ https://github.com/SoftServePracticeJan25/screenify-be
 ## 📫 Connect
 
 GitHub: https://github.com/T8mpest  
-LinkedIn: https://www.linkedin.com/in/michael-shypilov-bb2a82278/  
+LinkedIn: [https://www.linkedin.com/in/michael-shypilov-bb2a82278/](https://www.linkedin.com/in/michael-shypilov/)  
 Telegram: @t8mpestt
