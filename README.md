@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-Backend & AI-focused engineer building real production systems.
+Backend & AI-focused engineer building real production systems
 
 I care about:
 - system design  
