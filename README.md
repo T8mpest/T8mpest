@@ -56,7 +56,7 @@ The real work is AI system design and distributed architecture.
 
 ## 🏥 Prevencio — AI Medical Analysis Platform
 
-Backend Engineer
+Backend Engineer 
 
 - Built backend from scratch using Clean Architecture  
 - Designed full UML database model  
@@ -129,4 +129,5 @@ https://github.com/SoftServePracticeJan25/screenify-be
 
 GitHub: https://github.com/T8mpest  
 LinkedIn: [https://www.linkedin.com/in/michael-shypilov-bb2a82278/](https://www.linkedin.com/in/michael-shypilov/)  
+inst:
 Telegram: @t8mpestt
